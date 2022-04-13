@@ -1,0 +1,1 @@
+web: build/install/com.example.pacote-de-carinho-server/bin/com.example.pacote-de-carinho-server

@@ -1,0 +1,1 @@
+rootProject.name = "com.example.pacote-de-carinho-server"
